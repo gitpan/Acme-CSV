@@ -1,0 +1,13 @@
+I have been using this CSV module for years, whenever someone comes to
+me with a spreadsheet for munging. I can't remember where I even found
+it originally, but it has a simple interface and works well. I've been
+frustrated by this module not being on CPAN on several occasions, so
+with the original author's blessing, I am making it available there.
+
+This module was not originally in the Acme namespace, but I am moving
+it there to avoid controversy, and because it seems somewhat appropriate
+given the 1,000,000 other CSV modules which are already on CPAN.
+
+See Acme::CSV for perldoc and copyright info.
+
+--aayars

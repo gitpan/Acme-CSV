@@ -1,0 +1,7 @@
+lgpl.txt
+README
+MANIFEST
+INSTALL
+Changes
+Makefile.PL
+lib/Acme/CSV.pm
