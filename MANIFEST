@@ -5,3 +5,5 @@ INSTALL
 Changes
 Makefile.PL
 lib/Acme/CSV.pm
+t/CSV.t
+META.yml                                 Module meta-data (added by MakeMaker)
