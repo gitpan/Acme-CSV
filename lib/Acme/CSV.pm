@@ -16,7 +16,7 @@
 package Acme::CSV;
 require 5.000;
 require Exporter;
-$VERSION = 2.001;
+$VERSION = 2.002;
 
 @ISA = qw(Exporter);
 @EXPORT_OK = qw(CSVinit CSVvalidate CSVjoin CSVsplit);
@@ -193,7 +193,7 @@ __END__
 
 =head1 NAME
 
-Acme::CSV - a module providing manipulation routines for comma separated value (CSV) records
+Acme::CSV -  Simple functional module for CSV manipulation
 
 =head1 SYNOPSIS
 

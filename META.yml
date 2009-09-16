@@ -1,7 +1,7 @@
 --- #YAML:1.0
 name:                Acme-CSV
-version:             2.001
-abstract:            a module providing manipulation routines for comma separated value (CSV) records
+version:             2.002
+abstract:             Simple functional module for CSV manipulation
 license:             lgpl
 author:              
     - Christopher Rath <Christopher@Rath.ca>, Mark Mielke <Mark@Mielke.cc>, Alex Ayars <pause@nodekit.org>
